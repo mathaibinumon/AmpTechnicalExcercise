@@ -185,8 +185,8 @@
     "chrome": "npm run test --browser chrome",
     "firefox": "npm run test --browser firefox",
     "edge": "npm run test --browser firefox",
-    "APITest": "npm run test --record --key fa423514-5a84-42a7-b6a0-b5e7191bba12 --reporter mochawesome",
-    "UITest": "npm run test --spec \"cypress/integration/UITest/*\""
+    "APITest": "npm run test --spec \"cypress/e2e/apitest.cy.js",
+    "UITest": "npm run test --spec \"cypress/e2e/uitest.cy.js"
   },
   "author": "",
   "license": "ISC",
