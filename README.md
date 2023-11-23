@@ -1,6 +1,6 @@
 # AmpTechnicalExcercise
 
-Navigate to work directory "AmpTechnicalExcercise/Cypress_Automation-binu"
+Navigate to work directory "AmpTechnicalExcercise/"
 Install cypress if not installed
 npm install -D @cypress/xpath
 For CI integrated with GitHub Actions : https://github.com/mathaibinumon/AmpTechnicalExcercise/actions
